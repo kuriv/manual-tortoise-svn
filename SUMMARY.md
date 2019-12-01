@@ -3,6 +3,8 @@
 * [TortoiseSVN](README.md)
     * [安装 TortoiseSVN](docs/安装 TortoiseSVN.md)
     * [创建版本库](docs/创建版本库.md)
+    * [用户权限](docs/用户权限.md)
+    * [启动服务](docs/启动服务.md)
     * [检出工作副本](docs/检出工作副本.md)
     * [提交修改到版本库](docs/提交修改到版本库.md)
     * [更新工作副本](docs/更新工作副本.md)
