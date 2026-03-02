@@ -1,13 +1,14 @@
 {
   "name": "manual-tortoise-svn",
-  "version": "1.0.4",
-  "description": "TortoiseSVN 手册",
+  "version": "1.0.5",
+  "description": "TortoiseSVN 是 Windows 下的版本控制系统客户端工具。",
   "main": "index.js",
   "directories": {
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gitbook serve ./ ./book"
   },
   "repository": {
     "type": "git",
